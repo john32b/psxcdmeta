@@ -1,0 +1,4 @@
+dev/
+bin/*
+!bin/psxmeta.js
+psxmeta.hxproj

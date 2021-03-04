@@ -1,0 +1,11 @@
+
+# Build Requirements :
+# https://github.com/john32b/djNode
+# https://github.com/john32b/djA
+
+
+-lib djNode
+-cp src/
+-main Main
+-js bin/psxmeta.js
+--no-traces
